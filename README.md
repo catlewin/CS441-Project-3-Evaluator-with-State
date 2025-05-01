@@ -30,7 +30,7 @@ _Example Session:_
         Result: (success 8)  
         State: ((x . 5))  
 
-## Credits
+## AI Prompts & Generated Code
 
 Developed as a learning project with guidance from DeepSeek. Prompts & logs below.
 
