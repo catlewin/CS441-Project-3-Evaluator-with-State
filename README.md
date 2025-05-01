@@ -1,6 +1,6 @@
 # Racket Expression Evaluator
 
-_A functional interpreter with state management_
+_A functional evaluator with state management_
 
 _____
 
