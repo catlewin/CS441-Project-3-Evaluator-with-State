@@ -30,6 +30,28 @@ _Example Session:_
         Result: (success 8)  
         State: ((x . 5))  
 
+## Output
+
+1. Literals & Arithmetic operations
+
+<img width="391" alt="Screen Shot 2025-05-01 at 2 16 36 PM" src="https://github.com/user-attachments/assets/3999dade-7b8a-4825-a13c-8feacaced111" />
+
+
+2. Variable operations
+
+<img width="461" alt="Screen Shot 2025-05-01 at 2 27 45 PM" src="https://github.com/user-attachments/assets/5654b6ad-093a-423f-81ce-583228e1d438" />
+
+
+3. Nested Expressions
+
+<img width="387" alt="Screen Shot 2025-05-01 at 2 31 44 PM" src="https://github.com/user-attachments/assets/15b583c8-378a-494b-b6c3-d5f0d3ca4878" />
+
+
+4. Error Cases
+
+<img width="354" alt="Screen Shot 2025-05-01 at 2 34 09 PM" src="https://github.com/user-attachments/assets/10748121-56bd-44a4-96ae-339427578e93" />
+
+
 ## AI Prompts & Generated Code
 
 Developed as a learning project with guidance from DeepSeek. Prompts & logs below.
