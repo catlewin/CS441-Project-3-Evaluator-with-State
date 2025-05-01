@@ -2,6 +2,7 @@
 
 _A functional evaluator with state management_
 
+_Discussion document can be found in this repository or click_ [here](https://docs.google.com/document/d/1-oSRuj8wKQRlciwQOeKWbZQXK9DSPr4XWrhHPrFGtZk/edit?usp=sharing) _to view online._
 _____
 
 ## Features
