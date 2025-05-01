@@ -1,0 +1,46 @@
+Cat Lewin
+Professor Brian Hare
+CS 441
+1 May 2025
+Program 3: Evaluator with State
+
+Tools Used
+- DeepSeek: Primary aid for breaking down the assignment, generating starter code, and explaining functional programming concepts in Racket.
+- Claude.ai: Secondary tool for debugging complex issues (e.g., the unbound identifier error).
+
+Strengths of LLMs
+- Scaffolding:
+DeepSeek was helpful in decomposing the problem into steps (e.g., state management → REPL integration).
+Generated readable starter code for arithmetic evaluation and variable binding.
+- Speed:
+Quickly provides code basis to build from.
+- Multi-Approached:
+Claude debugged the program by attempting multiple solutions until one worked.
+
+Limitations
+- Syntax Errors:
+Both models struggled with Racket’s parentheses matching, requiring manual fixes.
+DeepSeek failed to resolve the unbound identifier issue, while Claude proposed multiple (though not always correct) solutions.
+- Access Barriers:
+Paywalls limited extended debugging sessions, forcing context-switching between models.
+Risk of reintroducing bugs when combining outputs from multiple LLMs.
+
+Skill Development
+- Critical Evaluation:
+As my Racket knowledge grew, I became better at vetting LLM suggestions (e.g., spotting incorrect tail-recursion advice).
+- Prompt Engineering: 
+"Garbage in, garbage out" held true. Precise prompts yielded better results.
+- Debugging Independence:
+Learned to isolate issues rather than relying wholly on LLMs.
+
+Big-Picture Takeaways
+- LLMs as Collaborators:
+Best used for brainstorming and boilerplate.
+- The Debugging Paradox:
+LLMs accelerated simple fixes but sometimes complicated hard bugs.
+- Learning through Error:
+Struggling with LLM errors deepened my understanding of Racket, functional programming, and programming strategies.
+
+Recommendations
+- For Students: Use LLMs to explore, not replace learning. Test every generated snippet line-by-line.
+- For Faculty: Teach prompt engineering alongside coding (e.g., how to ask for explanations vs. solutions).
